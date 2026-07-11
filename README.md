@@ -4,16 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=3,17,20&text=Minh-Duc%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20build%20the%20boring%20tools%20your%20AI%20agent%20is%20missing&descSize=16&descAlignY=52" width="100%" alt="Minh-Duc Nguyen — zero-dependency Python tools for AI agents" />
 
 <a href="https://github.com/nguyenminhduc9988?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=48&lines=115%2B+public+repos.+9+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours.;Every+tool+here+runs+daily+inside+my+own+AI+agent." alt="115+ public repos. 9 stars. Still shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=48&lines=116%2B+public+repos.+11+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours.;Every+tool+here+runs+daily+inside+my+own+AI+agent." alt="116+ public repos. 11 stars. Still shipping." />
 </a>
 
-<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=192" width="100%" alt="Live stats — 115+ repos, 9 stars, synced 2026-07-11" />
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=192" width="100%" alt="Live stats — 116+ repos, 11 stars, synced 2026-07-11" />
 
 </div>
 
 # The most honest stat on GitHub
 
-**115+ public repos. 9 stars between them — I counted.** Most people would hide that number. I'm leading with it, because *why* I keep shipping anyway is the one thing worth knowing before you scroll — and I'll tell you at the bottom of the tools list.
+**116+ public repos. 11 stars between them — I counted.** Most people would hide that number. I'm leading with it, because *why* I keep shipping anyway is the one thing worth knowing before you scroll — and I'll tell you at the bottom of the tools list.
 
 Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bloated dependency trees, no supply-chain surprises, no `pip install` roulette. Built for AI agents, LLM apps, and the developers who babysit them.
 
@@ -31,7 +31,7 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🎯 Pick your pain
 
-Don't browse 115+ repos. Find your problem, take the tool:
+Don't browse 116+ repos. Find your problem, take the tool:
 
 | Your problem right now | The fix | What it does |
 |---|---|---|
@@ -131,7 +131,7 @@ I give the machines away and only sell the factory tours. Start here — it's ge
 |---|---|
 | ⚡ [`dev-prompts`](https://github.com/nguyenminhduc9988/dev-prompts) | **120+ copy-paste AI prompts** for engineers — code review, debugging, testing, refactoring. Dependency-free CLI |
 | 🧰 [ToolNest](https://github.com/nguyenminhduc9988/free-tools-hub) | **12 free browser tools** — JSON formatter, Base64, password gen, QR & more. 100% client-side, your data never leaves the tab |
-| 📚 Everything above | 115+ MIT-licensed repos. Fork them, gut them, ship them in prod. No attribution begging |
+| 📚 Everything above | 116+ MIT-licensed repos. Fork them, gut them, ship them in prod. No attribution begging |
 
 **Why give this much away?** Here's the loop from the top closed: every tool on this page runs *daily inside my own autonomous AI agent*.
 
