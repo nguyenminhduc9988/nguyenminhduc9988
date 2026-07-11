@@ -1,24 +1,37 @@
+<!-- This README is auto-generated daily by MOJO (github_profile_sync.py). Edit ~/.hermes/.state/github-profile/copy.json, not this file. -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=3,17,20&text=Minh-Duc%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20build%20the%20boring%20tools%20your%20AI%20agent%20is%20missing&descSize=16&descAlignY=52" width="100%" alt="Minh-Duc Nguyen — zero-dependency Python tools for AI agents" />
 
 <a href="https://github.com/nguyenminhduc9988?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=640&height=48&lines=100%2B+public+repos.+10+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours." alt="100+ public repos. 10 stars. Still shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=48&lines=115%2B+public+repos.+9+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours.;Every+tool+here+runs+daily+inside+my+own+AI+agent." alt="115+ public repos. 9 stars. Still shipping." />
 </a>
+
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=192" width="100%" alt="Live stats — 115+ repos, 9 stars, synced 2026-07-11" />
 
 </div>
 
 # The most honest stat on GitHub
 
-**100+ public repos. 10 stars between them — I counted.** Most people would hide that number. I'm leading with it, because *why* I keep shipping anyway is the one thing worth knowing before you scroll — and I'll tell you at the bottom of the tools list.
+**115+ public repos. 9 stars between them — I counted.** Most people would hide that number. I'm leading with it, because *why* I keep shipping anyway is the one thing worth knowing before you scroll — and I'll tell you at the bottom of the tools list.
 
 Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bloated dependency trees, no supply-chain surprises, no `pip install` roulette. Built for AI agents, LLM apps, and the developers who babysit them.
 
 ---
 
+## 🔥 Today's spotlight
+
+> **🔥 Your API bill has a leak. Find it before OpenAI does.**
+>
+> [tokenseive](https://github.com/nguyenminhduc9988/tokenseive) — Multi-layer token optimization: compress prompts, map codebases, shrink output. Zero deps. **→ [try it](https://github.com/nguyenminhduc9988/tokenseive)**
+
+*A different tool steps into this slot every day. Yesterday it was someone else.*
+
+---
+
 ## 🎯 Pick your pain
 
-Don't browse 100 repos. Find your problem, take the tool:
+Don't browse 115+ repos. Find your problem, take the tool:
 
 | Your problem right now | The fix | What it does |
 |---|---|---|
@@ -27,11 +40,11 @@ Don't browse 100 repos. Find your problem, take the tool:
 | 🔥 "I'm burning tokens" | [`tokenseive`](https://github.com/nguyenminhduc9988/tokenseive) | Multi-layer token optimization — compress prompts, map codebases, shrink output |
 | 🧠 "My agent forgets everything" | [`mnemokit`](https://github.com/nguyenminhduc9988/mnemokit) | Persistent agent memory — SQLite + FTS5 full-text search, zero deps |
 | 🗺️ "My agent reads whole files to answer one question" | [`codegraph`](https://github.com/nguyenminhduc9988/codegraph) | Cached, incremental code-graph maps — agents query structure instead of reading code |
-| 💸 "My API bill is a mystery" | [`llm-pricing`](https://github.com/nguyenminhduc9988/llm-pricing) | Token counts → USD across OpenAI, Anthropic, Google, DeepSeek & more. CLI included |
 | 🔐 "Secrets keep leaking into prompts" | [`cloakpipe`](https://github.com/nguyenminhduc9988/cloakpipe) | Redacts secrets & PII before the API call, restores them in the response. 16 detectors |
 | 🎲 "My prompts are guesses" | [`prompt-bench`](https://github.com/nguyenminhduc9988/prompt-bench) | Scores prompt quality on 12 dimensions, detects anti-patterns, A/B tests variants |
 | 🔌 "I need an MCP server yesterday" | [`mcp-wrap`](https://github.com/nguyenminhduc9988/mcp-wrap) | Wraps any REST API into an MCP server in minutes |
 | 🚧 "My agent needs guardrails" | [`ratify`](https://github.com/nguyenminhduc9988/ratify) | Contract layer for LLM agents — deterministic checks + LLM judgment |
+| 🌍 "I want a dashboard, not a backend bill" | [`situroom`](https://github.com/nguyenminhduc9988/situroom) | Zero-backend global situation room — live earth intel, 100% client-side |
 
 ---
 
@@ -77,7 +90,7 @@ Assemble a **guild of AI agents** that self-builds a roster, self-runs a task DA
 </table>
 
 <details>
-<summary><b>📦 The full toolbox — 20+ more zero-dependency tools (click to expand)</b></summary>
+<summary><b>📦 The full toolbox — 69+ more zero-dependency tools (click to expand)</b></summary>
 <br/>
 
 **🤖 AI agents & LLM infrastructure**
@@ -118,7 +131,7 @@ I give the machines away and only sell the factory tours. Start here — it's ge
 |---|---|
 | ⚡ [`dev-prompts`](https://github.com/nguyenminhduc9988/dev-prompts) | **120+ copy-paste AI prompts** for engineers — code review, debugging, testing, refactoring. Dependency-free CLI |
 | 🧰 [ToolNest](https://github.com/nguyenminhduc9988/free-tools-hub) | **12 free browser tools** — JSON formatter, Base64, password gen, QR & more. 100% client-side, your data never leaves the tab |
-| 📚 Everything above | 100+ MIT-licensed repos. Fork them, gut them, ship them in prod. No attribution begging |
+| 📚 Everything above | 115+ MIT-licensed repos. Fork them, gut them, ship them in prod. No attribution begging |
 
 **Why give this much away?** Here's the loop from the top closed: every tool on this page runs *daily inside my own autonomous AI agent*.
 
@@ -144,15 +157,19 @@ Still reading? The store has the *assembled* versions — curated prompt packs, 
 
 ---
 
-## 📊 The graphs
+## 📊 The graphs (yes, there's a snake)
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/recently-shipped.svg?t=192" width="100%" alt="Recently shipped repos — live marquee" />
 
 <img src="https://streak-stats.demolab.com?user=nguyenminhduc9988&background=0a0a0f&border=1e1e2e&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=64748b&stroke=1e1e2e" alt="GitHub streak stats" height="170" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenminhduc9988&bg_color=0a0a0f&color=94a3b8&line=6366f1&point=22c55e&area=true&hide_border=false" alt="Contribution activity graph" width="100%" />
 
-<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/output/github-snake-dark.svg" alt="Contribution graph snake animation" width="100%" />
+<!-- dual-mode snake: light + dark variants from the Platane/snk Action -->
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/output/github-snake.svg#gh-light-mode-only" alt="Contribution graph snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/output/github-snake-dark.svg#gh-dark-mode-only" alt="Contribution graph snake animation" width="100%" />
 
 </div>
 
