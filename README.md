@@ -48,6 +48,18 @@ Don't browse 117+ repos. Find your problem, take the tool:
 
 ---
 
+## 🚀 Live demos — click and use them right now
+
+No sign-up wall, no "book a demo." These run in production, right now:
+
+| Demo | What happens when you click it |
+|---|---|
+| 🔬 [lens.bigwinner.work](https://lens.bigwinner.work) | Paste any public repo URL → get the repolens X-ray (dependency graph, blast radius, health grade, hotspot map) in your browser. No install |
+| 🛍️ [aiops.bigwinner.work](https://aiops.bigwinner.work) | AI Store Optimizer — the Shopify app, embedded and running on a live storefront |
+| 🏗️ [bigwinner.work](https://bigwinner.work) | The hub — every tool, guide, and live demo I ship, in one place |
+
+---
+
 ## ⭐ Flagships
 
 <table align="center">
