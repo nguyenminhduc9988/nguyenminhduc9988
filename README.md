@@ -4,16 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=3,17,20&text=Minh-Duc%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20build%20the%20boring%20tools%20your%20AI%20agent%20is%20missing&descSize=16&descAlignY=52" width="100%" alt="Minh-Duc Nguyen — zero-dependency Python tools for AI agents" />
 
 <a href="https://github.com/nguyenminhduc9988?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=48&lines=118%2B+public+repos.+11+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours.;Every+tool+here+runs+daily+inside+my+own+AI+agent." alt="118+ public repos. 11 stars. Still shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=48&lines=120%2B+public+repos.+11+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours.;Every+tool+here+runs+daily+inside+my+own+AI+agent." alt="120+ public repos. 11 stars. Still shipping." />
 </a>
 
-<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=194" width="100%" alt="Live stats — 118+ repos, 11 stars, synced 2026-07-13" />
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=195" width="100%" alt="Live stats — 120+ repos, 11 stars, synced 2026-07-14" />
 
 </div>
 
 # The most honest stat on GitHub
 
-**118+ public repos. 11 stars between them — I counted.** Most people would hide that number. I'm leading with it, because *why* I keep shipping anyway is the one thing worth knowing before you scroll — and I'll tell you at the bottom of the tools list.
+**120+ public repos. 11 stars between them — I counted.** Most people would hide that number. I'm leading with it, because *why* I keep shipping anyway is the one thing worth knowing before you scroll — and I'll tell you at the bottom of the tools list.
 
 Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bloated dependency trees, no supply-chain surprises, no `pip install` roulette. Built for AI agents, LLM apps, and the developers who babysit them.
 
@@ -21,9 +21,9 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🔥 Today's spotlight
 
-> **🧨 json.loads dies on cut-off JSON. Here's the one import that doesn't.**
+> **🏰 A guild of agents that builds itself — offline, zero keys.**
 >
-> [jsonsalvage](https://github.com/nguyenminhduc9988/jsonsalvage) — jsonsalvage closes unclosed objects, strips fences and prose, and repairs the rest — no deps beyond json and re. **→ [try it](https://github.com/nguyenminhduc9988/jsonsalvage)**
+> [guildhall](https://github.com/nguyenminhduc9988/guildhall) — Self-assembles a roster, runs a task DAG, grows a memory of lessons learned. No API spend. **→ [try it](https://github.com/nguyenminhduc9988/guildhall)**
 
 *A different tool steps into this slot every day. Yesterday it was someone else.*
 
@@ -31,7 +31,7 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🎯 Pick your pain
 
-Don't browse 118+ repos. Find your problem, take the tool:
+Don't browse 120+ repos. Find your problem, take the tool:
 
 | Your problem right now | The fix | What it does |
 |---|---|---|
@@ -40,7 +40,7 @@ Don't browse 118+ repos. Find your problem, take the tool:
 | 🔥 "I'm burning tokens" | [`tokenseive`](https://github.com/nguyenminhduc9988/tokenseive) | Multi-layer token optimization — compress prompts, map codebases, shrink output |
 | 🧠 "My agent forgets everything" | [`mnemokit`](https://github.com/nguyenminhduc9988/mnemokit) | Persistent agent memory — SQLite + FTS5 full-text search, zero deps |
 | 🗺️ "My agent reads whole files to answer one question" | [`codegraph`](https://github.com/nguyenminhduc9988/codegraph) | Cached, incremental code-graph maps — agents query structure instead of reading code |
-| 🔐 "Secrets keep leaking into prompts" | [`cloakpipe`](https://github.com/nguyenminhduc9988/cloakpipe) | Redacts secrets & PII before the API call, then puts them back in the response. 16 detectors |
+| 🔐 "Secrets keep leaking into prompts" | [`cloakpipe`](https://github.com/nguyenminhduc9988/cloakpipe) | Redacts secrets & PII before the API call, restores them in the response. 16 detectors |
 | 🎲 "My prompts are guesses" | [`prompt-bench`](https://github.com/nguyenminhduc9988/prompt-bench) | Scores prompt quality on 12 dimensions, detects anti-patterns, A/B tests variants |
 | 🔌 "I need an MCP server yesterday" | [`mcp-wrap`](https://github.com/nguyenminhduc9988/mcp-wrap) | Wraps any REST API into an MCP server in minutes |
 | 🚧 "My agent needs guardrails" | [`ratify`](https://github.com/nguyenminhduc9988/ratify) | Contract layer for LLM agents — deterministic checks + LLM judgment |
@@ -55,7 +55,7 @@ No sign-up wall, no "book a demo." These run in production, right now:
 | Demo | What happens when you click it |
 |---|---|
 | 🔬 [lens.bigwinner.work](https://lens.bigwinner.work) | Paste any public repo URL → get the repolens X-ray (dependency graph, blast radius, health grade, hotspot map) in your browser. No install |
-| ⚙️ [aiops.bigwinner.work](https://aiops.bigwinner.work) | AI Commerce Optimizer — the Shopify app, embedded and running on a live merchant site |
+| 🛍️ [aiops.bigwinner.work](https://aiops.bigwinner.work) | AI Store Optimizer — the Shopify app, embedded and running on a live storefront |
 | 🏗️ [bigwinner.work](https://bigwinner.work) | The hub — every tool, guide, and live demo I ship, in one place |
 
 ---
@@ -102,7 +102,7 @@ Assemble a **guild of AI agents** that self-builds a roster, self-runs a task DA
 </table>
 
 <details>
-<summary><b>📦 The full toolbox — 71+ more zero-dependency tools (click to expand)</b></summary>
+<summary><b>📦 The full toolbox — 73+ more zero-dependency tools (click to expand)</b></summary>
 <br/>
 
 **🤖 AI agents & LLM infrastructure**
@@ -137,13 +137,13 @@ Every one: Python stdlib only. MIT. `pip install` and forget.
 
 ## 🎁 The free shelf
 
-I give everything away for free — start here, it's genuinely enough for most people:
+I give the machines away and only sell the factory tours. Start here — it's genuinely enough for most people:
 
 | Free thing | What you get |
 |---|---|
 | ⚡ [`dev-prompts`](https://github.com/nguyenminhduc9988/dev-prompts) | **120+ copy-paste AI prompts** for engineers — code review, debugging, testing, refactoring. Dependency-free CLI |
 | 🧰 [ToolNest](https://github.com/nguyenminhduc9988/free-tools-hub) | **12 free browser tools** — JSON formatter, Base64, password gen, QR & more. 100% client-side, your data never leaves the tab |
-| 📚 Everything above | 118+ MIT-licensed repos. Fork them, gut them, ship them in prod. No attribution begging |
+| 📚 Everything above | 120+ MIT-licensed repos. Fork them, gut them, ship them in prod. No attribution begging |
 
 **Why give this much away?** Here's the loop from the top closed: every tool on this page runs *daily inside my own autonomous AI agent*.
 
@@ -151,11 +151,17 @@ Stars were never the business model — the tools pay me back in saved hours whe
 
 ---
 
-## ☕ Support
+## 🛒 The store (read this part last)
 
-**If a free tool already saved you an afternoon, coffee is the exchange rate — entirely optional.** There's nothing to buy here; every repo above is free and MIT-licensed. Ko-fi is just a tip jar for anyone who wants to say thanks.
+**Honestly — don't buy anything here until the free shelf fails you.** Most people's use case is covered by the free tools, and I'd rather you star a repo than refund a purchase.
+
+Still reading? The store has the *assembled* versions — curated prompt packs, templates, and step-by-step guides that skip you past the assembly work the free repos leave you:
 
 <div align="center">
+
+<a class="cta" href="https://nguyenminhduc9988.github.io/duc-store/"><img src="https://img.shields.io/badge/🛍️_duc--store-Browse_the_digital_products-6366f1?style=for-the-badge" alt="Browse duc-store — digital products for developers & makers" /></a>
+
+**…and if a free tool already saved you an afternoon, coffee is the exchange rate:**
 
 <a href="https://ko-fi.com/theaiproducer"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="40" /></a>
 
@@ -167,7 +173,7 @@ Stars were never the business model — the tools pay me back in saved hours whe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/recently-shipped.svg?t=194" width="100%" alt="Recently shipped repos — live marquee" />
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/recently-shipped.svg?t=195" width="100%" alt="Recently shipped repos — live marquee" />
 
 <img src="https://streak-stats.demolab.com?user=nguyenminhduc9988&background=0a0a0f&border=1e1e2e&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=64748b&stroke=1e1e2e" alt="GitHub streak stats" height="170" />
 
@@ -185,7 +191,7 @@ Stars were never the business model — the tools pay me back in saved hours whe
 
 **A ⭐ costs you one click. It pays the next stranger who's stuck on the same problem and finds the tool because you starred it.**
 
-🏗️ [bigwinner.work](https://bigwinner.work/) — the hub for everything I'm building &nbsp;·&nbsp; ☕ [Ko-fi](https://ko-fi.com/theaiproducer)
+🏗️ [bigwinner.work](https://bigwinner.work/) — the hub for everything I'm building &nbsp;·&nbsp; 🛍️ [duc-store](https://nguyenminhduc9988.github.io/duc-store/) &nbsp;·&nbsp; ☕ [Ko-fi](https://ko-fi.com/theaiproducer)
 
 <img src="https://komarev.com/ghpvc/?username=nguyenminhduc9988&color=6366f1&style=flat-square&label=profile+views" alt="profile views" />
 
