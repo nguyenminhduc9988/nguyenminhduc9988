@@ -40,7 +40,7 @@ Don't browse 118+ repos. Find your problem, take the tool:
 | 🔥 "I'm burning tokens" | [`tokenseive`](https://github.com/nguyenminhduc9988/tokenseive) | Multi-layer token optimization — compress prompts, map codebases, shrink output |
 | 🧠 "My agent forgets everything" | [`mnemokit`](https://github.com/nguyenminhduc9988/mnemokit) | Persistent agent memory — SQLite + FTS5 full-text search, zero deps |
 | 🗺️ "My agent reads whole files to answer one question" | [`codegraph`](https://github.com/nguyenminhduc9988/codegraph) | Cached, incremental code-graph maps — agents query structure instead of reading code |
-| 🔐 "Secrets keep leaking into prompts" | [`cloakpipe`](https://github.com/nguyenminhduc9988/cloakpipe) | Redacts secrets & PII before the API call, restores them in the response. 16 detectors |
+| 🔐 "Secrets keep leaking into prompts" | [`cloakpipe`](https://github.com/nguyenminhduc9988/cloakpipe) | Redacts secrets & PII before the API call, then puts them back in the response. 16 detectors |
 | 🎲 "My prompts are guesses" | [`prompt-bench`](https://github.com/nguyenminhduc9988/prompt-bench) | Scores prompt quality on 12 dimensions, detects anti-patterns, A/B tests variants |
 | 🔌 "I need an MCP server yesterday" | [`mcp-wrap`](https://github.com/nguyenminhduc9988/mcp-wrap) | Wraps any REST API into an MCP server in minutes |
 | 🚧 "My agent needs guardrails" | [`ratify`](https://github.com/nguyenminhduc9988/ratify) | Contract layer for LLM agents — deterministic checks + LLM judgment |
