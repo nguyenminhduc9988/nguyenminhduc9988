@@ -55,7 +55,7 @@ No sign-up wall, no "book a demo." These run in production, right now:
 | Demo | What happens when you click it |
 |---|---|
 | 🔬 [lens.bigwinner.work](https://lens.bigwinner.work) | Paste any public repo URL → get the repolens X-ray (dependency graph, blast radius, health grade, hotspot map) in your browser. No install |
-| 🛍️ [aiops.bigwinner.work](https://aiops.bigwinner.work) | AI Store Optimizer — the Shopify app, embedded and running on a live storefront |
+| ⚙️ [aiops.bigwinner.work](https://aiops.bigwinner.work) | AI Commerce Optimizer — the Shopify app, embedded and running on a live merchant site |
 | 🏗️ [bigwinner.work](https://bigwinner.work) | The hub — every tool, guide, and live demo I ship, in one place |
 
 ---
@@ -137,7 +137,7 @@ Every one: Python stdlib only. MIT. `pip install` and forget.
 
 ## 🎁 The free shelf
 
-I give the machines away and only sell the factory tours. Start here — it's genuinely enough for most people:
+I give everything away for free — start here, it's genuinely enough for most people:
 
 | Free thing | What you get |
 |---|---|
@@ -151,17 +151,11 @@ Stars were never the business model — the tools pay me back in saved hours whe
 
 ---
 
-## 🛒 The store (read this part last)
+## ☕ Support
 
-**Honestly — don't buy anything here until the free shelf fails you.** Most people's use case is covered by the free tools, and I'd rather you star a repo than refund a purchase.
-
-Still reading? The store has the *assembled* versions — curated prompt packs, templates, and step-by-step guides that skip you past the assembly work the free repos leave you:
+**If a free tool already saved you an afternoon, coffee is the exchange rate — entirely optional.** There's nothing to buy here; every repo above is free and MIT-licensed. Ko-fi is just a tip jar for anyone who wants to say thanks.
 
 <div align="center">
-
-<a class="cta" href="https://nguyenminhduc9988.github.io/duc-store/"><img src="https://img.shields.io/badge/🛍️_duc--store-Browse_the_digital_products-6366f1?style=for-the-badge" alt="Browse duc-store — digital products for developers & makers" /></a>
-
-**…and if a free tool already saved you an afternoon, coffee is the exchange rate:**
 
 <a href="https://ko-fi.com/theaiproducer"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="40" /></a>
 
@@ -191,7 +185,7 @@ Still reading? The store has the *assembled* versions — curated prompt packs, 
 
 **A ⭐ costs you one click. It pays the next stranger who's stuck on the same problem and finds the tool because you starred it.**
 
-🏗️ [bigwinner.work](https://bigwinner.work/) — the hub for everything I'm building &nbsp;·&nbsp; 🛍️ [duc-store](https://nguyenminhduc9988.github.io/duc-store/) &nbsp;·&nbsp; ☕ [Ko-fi](https://ko-fi.com/theaiproducer)
+🏗️ [bigwinner.work](https://bigwinner.work/) — the hub for everything I'm building &nbsp;·&nbsp; ☕ [Ko-fi](https://ko-fi.com/theaiproducer)
 
 <img src="https://komarev.com/ghpvc/?username=nguyenminhduc9988&color=6366f1&style=flat-square&label=profile+views" alt="profile views" />
 
