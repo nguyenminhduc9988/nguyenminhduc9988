@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=48&lines=107%2B+public+repos.+12+stars.+Still+shipping.;Zero+dependencies.+Stdlib+only.+MIT+everything.;Free+first.+Pay+only+if+it+saves+you+hours.;Every+tool+here+runs+daily+inside+my+own+AI+agent." alt="107+ public repos. 12 stars. Still shipping." />
 </a>
 
-<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=196" width="100%" alt="Live stats — 107+ repos, 12 stars, synced 2026-07-15" />
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/live-stats.svg?t=197" width="100%" alt="Live stats — 107+ repos, 12 stars, synced 2026-07-16" />
 
 </div>
 
@@ -21,9 +21,9 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🔥 Today's spotlight
 
-> **🚧 Trust your agent — then verify every step.**
+> **⚡ 120+ copy-paste prompts that already did the hard thinking.**
 >
-> [ratify](https://github.com/nguyenminhduc9988/ratify) — A contract layer: deterministic checks + LLM judgment for agentic pipelines. **→ [try it](https://github.com/nguyenminhduc9988/ratify)**
+> [dev-prompts](https://github.com/nguyenminhduc9988/dev-prompts) — Code review, debugging, testing, refactoring. Dependency-free CLI. The free shelf starts here. **→ [try it](https://github.com/nguyenminhduc9988/dev-prompts)**
 
 *A different tool steps into this slot every day. Yesterday it was someone else.*
 
@@ -173,7 +173,7 @@ Still reading? The store has the *assembled* versions — curated prompt packs, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/recently-shipped.svg?t=196" width="100%" alt="Recently shipped repos — live marquee" />
+<img src="https://raw.githubusercontent.com/nguyenminhduc9988/nguyenminhduc9988/main/assets/recently-shipped.svg?t=197" width="100%" alt="Recently shipped repos — live marquee" />
 
 <img src="https://streak-stats.demolab.com?user=nguyenminhduc9988&background=0a0a0f&border=1e1e2e&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=64748b&stroke=1e1e2e" alt="GitHub streak stats" height="170" />
 
