@@ -21,9 +21,9 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🔥 Today's spotlight
 
-> **🔐 16 detectors hide your secrets from the LLM. Here's how the reply gets them back.**
+> **🔐 16 detectors are built in. Here’s how one regex adds your private IDs.**
 >
-> [cloakpipe](https://github.com/nguyenminhduc9988/cloakpipe) — Each secret becomes a stable placeholder the provider never sees, then uncloak restores the real value in the answer — the model still reasons. That's cloakpipe. **→ [try it](https://github.com/nguyenminhduc9988/cloakpipe)**
+> [cloakpipe](https://github.com/nguyenminhduc9988/cloakpipe) — Pass `extra_patterns` per call; cloakpipe turns each custom match into a stable placeholder, then restores it after the model replies. Add your regex in cloakpipe. **→ [try it](https://github.com/nguyenminhduc9988/cloakpipe)**
 
 *A different tool steps into this slot every day. Yesterday it was someone else.*
 
