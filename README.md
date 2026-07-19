@@ -21,9 +21,9 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🔥 Today's spotlight
 
-> **🔍 One command. Your whole codebase, x-rayed on a single page.**
+> **🔍 Zero uploads. Here's how repolens x-rays a codebase anyway.**
 >
-> [repolens](https://github.com/nguyenminhduc9988/repolens) — Dependency graph, blast radius, health grade, security scan and hotspot map — no upload, runs locally, zero deps. The repo that started the 'superior-free' doctrine. **→ [try it](https://github.com/nguyenminhduc9988/repolens)**
+> [repolens](https://github.com/nguyenminhduc9988/repolens) — It runs locally and writes one self-contained HTML — D3 inlined, zero network calls, your code never leaves the machine. `uvx repolens-kit .` **→ [try it](https://github.com/nguyenminhduc9988/repolens)**
 
 *A different tool steps into this slot every day. Yesterday it was someone else.*
 
