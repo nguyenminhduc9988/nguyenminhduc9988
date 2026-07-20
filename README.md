@@ -21,9 +21,9 @@ Everything here is **zero-dependency Python** (stdlib only, MIT-licensed): no bl
 
 ## 🔥 Today's spotlight
 
-> **🗺️ An AST index your agent can actually use.**
+> **🗺️ Change one file. Here's the one call that names the entire blast radius.**
 >
-> [codegraph](https://github.com/nguyenminhduc9988/codegraph) — Build once, map any symbol's callers/callees/deps in ms. On PyPI as codegraph-kit. **→ [try it](https://github.com/nguyenminhduc9988/codegraph)**
+> [codegraph](https://github.com/nguyenminhduc9988/codegraph) — A cached tree-sitter graph maps every symbol's dependents up front, so `explore` returns the blast radius — and the source — in one call. `pip install graphscout`. **→ [try it](https://github.com/nguyenminhduc9988/codegraph)**
 
 *A different tool steps into this slot every day. Yesterday it was someone else.*
 
